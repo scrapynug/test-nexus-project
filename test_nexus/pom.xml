@@ -22,4 +22,15 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+    
+  <distributionManagement>
+    <repository>
+      <id>releases</id>
+      <url>${nexus.url.rel}</url>
+    </repository>
+    <snapshotRepository>
+      <id>releases</id>
+      <url>${nexus.url.snp}</url>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
