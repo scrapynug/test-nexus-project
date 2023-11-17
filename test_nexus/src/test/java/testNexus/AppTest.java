@@ -1,4 +1,4 @@
-package $mule-application;
+package testNexus;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

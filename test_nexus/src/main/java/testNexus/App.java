@@ -1,4 +1,4 @@
-package $mule-application;
+package testNexus;
 
 /**
  * Hello world!
