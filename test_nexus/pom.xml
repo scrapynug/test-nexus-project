@@ -4,7 +4,7 @@
 
   <groupId>com.test.nexusdeploy</groupId>
   <artifactId>test_nexus</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>test_nexus</name>
